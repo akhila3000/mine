@@ -126,7 +126,7 @@ soupsieve==2.3.2.post1
 sqlparse==0.4.3
 statsmodels==0.13.5
 stemming==1.0.1
-streamlit==1.16.0
+streamlit
 streamlit-option-menu==0.3.2
 tenacity==8.1.0
 tensor==0.3.6
