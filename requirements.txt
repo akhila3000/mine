@@ -130,7 +130,7 @@ streamlit==1.16.0
 streamlit-option-menu==0.3.2
 tenacity==8.1.0
 tensor==0.3.6
-tensorboard==2.8.0
+tensorboard
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.9.0rc1
