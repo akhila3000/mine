@@ -134,7 +134,7 @@ tensorboard
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow
-tensorflow-estimator==2.9.0
+tensorflow-estimator
 tensorflow-gpu
 tensorflow-intel
 tensorflow-io-gcs-filesystem==0.29.0
