@@ -40,7 +40,7 @@ entrypoints==0.4
 etiquetando==0.1
 fastjsonschema==2.16.2
 Flask==2.2.2
-flatbuffers
+flatbuffers23.1.21
 fonttools==4.38.0
 gast==0.4.0
 gitdb==4.0.10
@@ -135,7 +135,7 @@ tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.9.0rc1
 tensorflow-estimator==2.9.0
-tensorflow-gpu==2.10.1
+tensorflow-gpu
 tensorflow-intel
 tensorflow-io-gcs-filesystem==0.29.0
 termcolor==2.1.1
